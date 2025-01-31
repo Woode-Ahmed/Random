@@ -1,6 +1,11 @@
 # Random
 FB &lt;/> RANDOM ★
 
+Using the randomness library💣
+
+[![NetProwler Logo](IMG_20250201_005406_035.jpg)](https://t.me/NO_BRAK)
+
+[My channel Telegram](https://t.me/NO_BRAK)
 
 How are the inputs used in the code?
 
